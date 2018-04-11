@@ -1,0 +1,39 @@
+h1{
+color: #ffff00;
+font-size: 40px;
+padding: 30px;
+font-family: sans-serif;
+font-weight: bolder;
+
+
+
+}
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+/* Centered text */
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+.sidearticles{
+  border: 1px solid white;
+
+}
+body{
+  background-color: rgb(220,220,220);
+}
+img{
+  width: 100%;
+}
+
+.sidearticles img{
+  width: 100px;
+}
